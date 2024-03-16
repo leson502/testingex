@@ -24,8 +24,5 @@ def count_diff(arr: list, k: int):
 
     return result
 
-
-if __name__ == "__main__":
-    print(count_diff([1, 2, 3, 3, 3, 4, 5, 5, 5, 102, 103, 104] * 4, 2))
     
     
